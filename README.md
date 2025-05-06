@@ -1,10 +1,5 @@
 ```markdown
 # TP1 - Jogo Magic6
-
-![C Language](https://img.shields.io/badge/Linguagem-C-blue.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/TP1-Magic6)
-![License](https://img.shields.io/badge/Licença-MIT-green.svg)
-
 Implementação em C do jogo Magic6, trabalho prático para a disciplina de Programação em Sistemas Computacionais.
 
 ## 📝 Descrição
