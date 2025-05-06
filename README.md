@@ -1,13 +1,6 @@
 ```markdown
 # TP1 - Jogo Magic6
 Implementação em C do jogo Magic6, trabalho prático para a disciplina de Programação em Sistemas Computacionais.
-
-## 📝 Descrição
-
-O Magic6 é um jogo de adivinhação baseado na representação binária de números:
-- **Modo 1**: O computador adivinha seu número (1-63) analisando em quais cartões ele aparece
-- **Modo 2**: Você adivinha o número do computador observando os cartões onde ele aparece
-
 ## 🛠️ Como Compilar e Executar
 
 ### Pré-requisitos
