@@ -9,7 +9,7 @@ Implementação em C do jogo Magic6, trabalho prático para a disciplina de Prog
 ### Passos:
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/TP1-Magic6.git
+git clone https://github.com/B1mb4z/Jogo-de-adivinhacao.git
 cd TP1-Magic6/src
 
 # Compile (Linux/macOS)
