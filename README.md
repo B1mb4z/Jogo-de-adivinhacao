@@ -1,23 +1,4 @@
-```markdown
-# TP1 - Jogo Magic6
-Implementação em C do jogo Magic6, trabalho prático para a disciplina de Programação em Sistemas Computacionais.
-## 🛠️ Como Compilar e Executar
 
-### Pré-requisitos
-- Compilador GCC (`sudo apt install gcc` no Linux)
-
-### Passos:
-```bash
-# Clone o repositório
-git clone https://github.com/B1mb4z/Jogo-de-adivinhacao.git
-cd TP1-Magic6/src
-
-# Compile (Linux/macOS)
-gcc magic6.c -o magic6
-
-# Execute
-./magic6
-```
 
 ## Como Jogar
 
