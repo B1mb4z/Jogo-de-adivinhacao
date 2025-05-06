@@ -31,7 +31,7 @@ gcc magic6.c -o magic6
 ./magic6
 ```
 
-## 🎮 Como Jogar
+## Como Jogar
 
 1. **Modo Computador Adivinha**:
    - Pense em um número entre 1-63
@@ -45,7 +45,7 @@ gcc magic6.c -o magic6
    - Todos os cartões são exibidos, indicando onde o número aparece
    - Tente adivinhar o número!
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 ```
 TP1-Magic6/
 ├── src/
@@ -55,7 +55,7 @@ TP1-Magic6/
 └── README.md           # Este arquivo
 ```
 
-## 📊 Exemplo de Saída
+## Exemplo de Saída
 ```
 === Jogo Magic6 ===
 1. Computador adivinha o seu numero
